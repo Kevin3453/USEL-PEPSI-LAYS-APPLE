@@ -1,0 +1,110 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    width: 1920px;
+    height: 90px;
+    background-color: #0025ff;
+    display: flex;
+}
+
+.card a {
+    color: white;
+    text-decoration: none;
+    padding: 50px;
+    font-size: 25px;
+    align-items: center;
+
+}
+
+.card2 {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+   margin-top: 30px;
+}
+
+.card4 {
+    width: 200px;
+    height: 30px;
+    background-color: #0025ff;
+    border-radius: 15px;
+    border: none;
+    border: 1px solid black;
+    margin-left: 850px;
+    margin-top: 25px;
+}
+
+.hero__video {
+    height: 100%;
+    width: 100%;
+}
+
+.card6 {
+    font-size: 70px;
+}
+.card8 {
+    width: 500px;
+    height: 100px;
+    border: 1px solid blue;
+    background-color: blue;
+}
+
+button p {
+    font-size: 50px;
+    color: white;
+}
+
+.other__video {
+    height: 100%;
+    width: 100%;
+}
+
+.card5 {
+    background-color: black;
+}
+
+.card5 h2, h3, button {
+    color: white;
+}
+
+.card10 {
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/apple-music/background.png);
+    height: 1000px;
+    
+}
+
+.card11 {
+    width: 900px;
+    height: 700px;
+}
+
+.card13 {
+    width: 500px;
+    height: 500px;
+}
+
+
+.card15 {
+    width: 150px;
+    height: 40px;
+    border-radius: 15px;
+    background-image: url('https://www.pepsi.com/en-us/uploads/images/apple-music/background.png');
+    border: none;
+    border: 1px solid white;
+    margin-left: 1050px;
+}
+
+.card17 {
+    margin-left: 950px;
+    margin-top: 50px;
+}
+
+.card20 {
+    width: 2130px;
+    height: 350px;
+    background-color: black;
+}

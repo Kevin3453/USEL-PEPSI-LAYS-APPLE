@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card1 {
+    width: 100%;
+    height: 80px;
+    background-color: #f0f0f3;
+    display: flex;
+    
+}
+
+
+
+.card2 {
+    color: #535355;
+    margin-top: 25px;
+    margin-left: 550px;
+}
+
+
+
+.card4 {
+    width: 100px;
+    height: 35px;
+    background-color: #101010;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    color: white;
+    margin-left: 15px;
+    font-size: 17px;
+}
+
+.card5 {
+    width: 100%;
+    height: 40px;
+    background-color: #aeadad;
+    display: flex;
+} 
+
+.card8 i {
+    margin-top: 10px;
+    margin-left: 350px;
+}
+
+.card6 {
+    color: #353535;
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 30px;
+}
+
+
+
+.card7 {
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+
+.card9 {
+    margin-top: 12px;
+    margin-left: 25px;
+}   
+.card11 {
+    z-index: -1;
+    position: absolute;
+    color: white;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    background: url(https://www.apple.com/v/home/be/images/heroes/iphone-15-pro/hero_iphone15pro_announce__c1coc7n3a0uq_medium_2x.jpg);
+    background-repeat: no-repeat;
+    font-size: 50px;
+}
+
+
+
+
+.card18 {
+    z-index: -1;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    margin-top: 800px;
+    justify-content: center;
+    background: url(https://www.apple.com/v/home/be/images/heroes/iphone-15/hero_iphone15_announce__uuemlcwczn6u_medium_2x.jpg);
+    background-repeat: no-repeat;
+    font-size: 50px;
+}
+
+.card14 {
+    display: flex;
+}
+
+.card14 i {
+    margin-top: 20px;
+    color: #06c;
+}
+
+.card15 {
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.card16 {
+    margin-top: 20px;
+    color: #06c;
+    text-decoration: none;
+}
+
+.card16:hover {
+    text-decoration: underline;
+}
+
+.content {
+    font-size: 45px;
+}
+
+.card12 {
+    width: 300px;
+    height: 40px;
+    margin-top: 15px;
+}
+
+
+.card19 {
+    font-size: 50px;
+}
+
+.card20 {
+    position: relative;
+    top: 1800px;
+    background: url(https://www.apple.com/v/home/be/images/heroes/apple-watch-series-9/hero_apple_watch_series_9_order__d0fi9mb84dci_large_2x.jpg);
+    width: 197.5vh;
+    height: 50vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

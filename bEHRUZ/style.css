@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.box1 {
+    
+    width: 100px;
+    height: 60px;
+    background: red;
+    position: absolute;
+    top: 70px;
+    right: 20px;
+}
+
+.box2 {
+    width: 300px;
+    height: 300px;
+    background: blue;
+    position: relative;
+    right: 20px;
+}
+
+.stek {
+    width: 900px;
+    height: 50px;
+    background: red;
+    position: static;
+    top: 100px;
+}
